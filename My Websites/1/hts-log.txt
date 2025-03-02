@@ -1,0 +1,13 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 02 Mar 2025 13:29:54 at https://rzdpai.top/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "zh, en, *" https://rzdpai.top/ -O1 "C:\My Websites\1" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+13:30:15	Error: 	"Connect Error" (-4) after 2 retries at link https://rzdpai.top/robots.txt (from primary/primary)
+13:30:15	Warning: 	Retry after error -4 (Connect Error) at link https://rzdpai.top/ (from primary/primary)
+13:30:36	Warning: 	Retry after error -4 (Connect Error) at link https://rzdpai.top/ (from primary/primary)
+13:30:57	Error: 	"Connect Error" (-4) after 2 retries at link https://rzdpai.top/ (from primary/primary)
+13:30:57	Warning: 	No data seems to have been transferred during this session! : restoring previous one!
